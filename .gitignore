@@ -1,0 +1,21 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# SASS
+css
+.sass-cache
+.eyeglass_cache
+
+# Node.js
+node_modules
+
+# Public
+
+public
